@@ -1,8 +1,8 @@
-numpy
 pandas
-scikit-learn
+numpy
 joblib
-pyserial
+requests
 smbus2
-adafruit-circuitpython-dht
-Adafruit-Blinka
+pyserial
+tflite-runtime
+scikit-learn
